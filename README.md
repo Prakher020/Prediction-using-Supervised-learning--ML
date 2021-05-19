@@ -1,4 +1,4 @@
-Author: Prakher Srivastava (prakhar020@gmail.com)
+**Author: Prakher Srivastava** (_prakhar020@gmail.com_)
 Data Science and Business Analytics Task-1
 Prediction ussing Supervised learning - ML
 Predict the percentage of an student based on the no. of study hours.
